@@ -9,6 +9,9 @@
 
 ![Screenshot Portfolio (2)](https://github.com/faishalwahiduddin/AISensor.id/assets/15316893/1cddc29d-8f5d-475b-b8c2-7bc4844e0139)
 
+## 🖥️ Tech Stack
+
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## 📬 Contact
 
